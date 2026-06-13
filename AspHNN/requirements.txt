@@ -1,0 +1,8 @@
+# Core dependencies for ASpHNN (PHEnergyPatch)
+torch>=2.0
+numpy
+pandas
+scikit-learn
+matplotlib
+# Optional: only needed for utils/tools.py test_params_flop() FLOP counting
+# ptflops
